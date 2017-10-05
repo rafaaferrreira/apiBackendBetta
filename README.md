@@ -50,13 +50,13 @@ Teste Betta Tecnologia
 --------------------------------------------------------------------
 
 
-###### <strong>Endpoints webservice apiBackendBetta</strong>
+###### Endpoints webservice apiBackendBetta
 <p><em><strong>http://localhost:8080/products/getAllProducts      - Lista todos Produtos</strong></em></p>
 <p><em><strong>http://localhost:8080/products/saveProduct         - Salva Produto</strong></em></p>
 <p><em><strong>http://localhost:8080/products/updateProduct       - Update Produto</strong></em></p>
 <p><em><strong>http://localhost:8080/products/getProduct/{id}     - Recebe um Produto por ID</strong></em></p>
 <p><em><strong>http://localhost:8080/products/deleteProduct/{id}  - Deleta Produto</strong></em></p>
-
+-------------------------------------------------------------------------------------------------------------------------------
 <p><em><strong>http://localhost:8080/images/getAllImages              - Lista todas imagens</strong></em></p>
 <p><em><strong>http://localhost:8080/images/saveImage                 - Salve imagem por produto</strong></em></p>
 <p><em><strong>http://localhost:8080/images/getImagesByProduct/{id}   - Recebe todas imagens por id do produto</strong></em></p>
