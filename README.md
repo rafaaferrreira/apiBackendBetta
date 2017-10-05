@@ -18,6 +18,6 @@ Teste Betta Tecnologia
 <p>mvn test</p>
 <p>mvn clean install</p>
 <p>mvn clean install and mvn springboot:run</p>
-<p><em>Abre seu navegador e acesse a api</em></p>
-<p><em>http://localhost:8080</em></p>
+<p><em><strong>Abre seu navegador e acesse a api</strong></em></p>
+<p><em><strong>http://localhost:8080</strong></em></p>
 
