@@ -46,3 +46,19 @@ Teste Betta Tecnologia
 <p><em><strong>http://localhost:8080/console</strong></em></p>
 </blockquote>
 
+###### Endpoints webservice apiBackendBetta 
+<blockquote>
+<p><em><strong>http://localhost:8080/products/getAllProducts      - Lista todos Produtos</strong></em></p>
+<p><em><strong>http://localhost:8080/products/saveProduct         - Salva Produto</strong></em></p>
+<p><em><strong>http://localhost:8080/products/updateProduct       - Update Produto</strong></em></p>
+<p><em><strong>http://localhost:8080/products/getProduct/{id}     - Recebe um Produto por ID</strong></em></p>
+<p><em><strong>http://localhost:8080/products/deleteProduct/{id}  - Deleta Produto</strong></em></p>
+
+<p><em><strong>http://localhost:8080/images/getAllImages              - Lista todas imagens</strong></em></p>
+<p><em><strong>http://localhost:8080/images/saveImage                 - Salve imagem por produto</strong></em></p>
+<p><em><strong>http://localhost:8080/images/getImagesByProduct/{id}   - Recebe todas imagens por id do produto</strong></em></p>
+<p><em><strong>http://localhost:8080/images/updateImage               - Salva imagem do produto</strong></em></p>
+<p><em><strong>http://localhost:8080/images/deleteImage/{id}          - Deleta Imagem</strong></em></p>
+<p><em><strong>http://localhost:8080/images/getImage/{id}             - Recebe determinada imagem por id</strong></em></p>
+</blockquote>
+
