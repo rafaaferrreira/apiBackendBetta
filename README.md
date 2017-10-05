@@ -1,21 +1,21 @@
 # apiBackendBetta
 Teste Betta Tecnologia
 
-### Ferramentas usadas ###
-Eclipse IDE
-Java
-Maven
-Spring boot
-H2 DataBase
-Jpa
-Tomcat
-Spring-boot-starter-jdbc
+## Tecnologias e ferramentas utilizadas
+<p>Eclipse IDE</p>
+<p>Java</p>
+<p>Maven</p>
+<p>Spring boot</p>
+<p>H2 DataBase</p>
+<p>Jpa</p>
+<p>Tomcat</p>
+<p>Spring-boot-starter-jdbc</p>
 
-### Executando aplicação ###
-Instalar o mvn
-abrir pasta do projeto exemplo: C:\Users\rafaa\workspace\apiBackendBetta>
-Executar seguintes comandos: 
-mvn test
-mvn clean install
-mvn clean install and mvn springboot:run
+### Executando aplicação
+<p>Instalar o mvn</p>
+<p>abrir pasta do projeto exemplo: C:\Users\rafaa\workspace\apiBackendBetta></p>
+<p>Executar seguintes comandos: </p>
+<p>mvn test</p>
+<p>mvn clean install</p>
+<p>mvn clean install and mvn springboot:run</p>
 
