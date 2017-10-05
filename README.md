@@ -33,3 +33,8 @@ Teste Betta Tecnologia
 <p><em><strong>Abra seu navegador e acesse a aplicação frontEnd</strong></em></p>
 <p><em><strong>http://localhost:4200</strong></em></p>
 
+##### Acessando o console do H2 DATABASE
+<p>Após subir o projeto apiBackendBetta</p>
+<p><em><strong>Abra seu navegador e acesse:</strong></em></p>
+<p><em><strong>http://localhost:8080/console</strong></em></p>
+
