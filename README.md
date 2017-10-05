@@ -16,6 +16,7 @@ Teste Betta Tecnologia
 </blockquote>
 
 ### Executando aplicação backend
+<blockquote>
 <p>Instalar o mvn</p>
 <p>abrir pasta do projeto exemplo: C:\Users\rafaa\workspace\apiBackendBetta></p>
 <p>Executar seguintes comandos: </p>
@@ -24,8 +25,10 @@ Teste Betta Tecnologia
 <p>mvn clean install and mvn springboot:run</p>
 <p><em><strong>Abra seu navegador e acesse a api</strong></em></p>
 <p><em><strong>http://localhost:8080</strong></em></p>
+</blockquote>
 
 #### Executando aplicação frontEnd
+<blockquote>
 <p>Instalar o npm</p>
 <p>npm install -g @angular/cli</p>
 <p>abrir pasta do projeto exemplo: C:\Users\rafaa\workspace\frontEnd-betta></p>
@@ -34,9 +37,12 @@ Teste Betta Tecnologia
 <p>Com esse comando o servidor Angular está de pé</p>
 <p><em><strong>Abra seu navegador e acesse a aplicação frontEnd</strong></em></p>
 <p><em><strong>http://localhost:4200</strong></em></p>
+ /<blockquote>
 
 ##### Acessando o console do H2 DATABASE
+<blockquote>
 <p>Após subir o projeto apiBackendBetta</p>
 <p><em><strong>Abra seu navegador e acesse:</strong></em></p>
 <p><em><strong>http://localhost:8080/console</strong></em></p>
+</blockquote>
 
