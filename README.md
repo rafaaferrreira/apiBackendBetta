@@ -37,7 +37,7 @@ Teste Betta Tecnologia
 <p>Com esse comando o servidor Angular está de pé</p>
 <p><em><strong>Abra seu navegador e acesse a aplicação frontEnd</strong></em></p>
 <p><em><strong>http://localhost:4200</strong></em></p>
- /<blockquote>
+</blockquote>
 
 ##### Acessando o console do H2 DATABASE
 <blockquote>
