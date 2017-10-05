@@ -3,7 +3,7 @@ Teste Betta Tecnologia
 
 ### Ferramentas usadas ###
 Eclipse IDE
-Java /n
+Java
 Maven
 Spring boot
 H2 DataBase
