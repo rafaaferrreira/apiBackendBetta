@@ -30,6 +30,6 @@ Teste Betta Tecnologia
 <p>Executar seguintes comandos: </p>
 <p>ng serve</p>
 <p>Com esse comando o servidor Angular está de pé</p>
-<p><em><strong>Abra seu navegador e acesse a api</strong></em></p>
+<p><em><strong>Abra seu navegador e acesse a aplicação frontEnd</strong></em></p>
 <p><em><strong>http://localhost:4200</strong></em></p>
 
