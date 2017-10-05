@@ -1,7 +1,6 @@
 # apiBackendBetta
 Teste Betta Tecnologia
-
-
+--------------------------------------------------------------------
 ## Tecnologias e ferramentas utilizadas
 <p>Eclipse IDE</p>
 <p>Java</p>
@@ -13,7 +12,8 @@ Teste Betta Tecnologia
 <p>Spring-boot-starter-jdbc</p>
 
 <p>Angular JS para front end</>
-
+  
+--------------------------------------------------------------------
 
 ### Executando aplicação backend
 
@@ -26,6 +26,7 @@ Teste Betta Tecnologia
 <p><em><strong>Abra seu navegador e acesse a api</strong></em></p>
 <p><em><strong>http://localhost:8080</strong></em></p>
 
+--------------------------------------------------------------------
 
 #### Executando aplicação frontEnd
 
@@ -38,6 +39,7 @@ Teste Betta Tecnologia
 <p><em><strong>Abra seu navegador e acesse a aplicação frontEnd</strong></em></p>
 <p><em><strong>http://localhost:4200</strong></em></p>
 
+--------------------------------------------------------------------
 
 ##### Acessando o console do H2 DATABASE
 
@@ -45,8 +47,10 @@ Teste Betta Tecnologia
 <p><em><strong>Abra seu navegador e acesse:</strong></em></p>
 <p><em><strong>http://localhost:8080/console</strong></em></p>
 
+--------------------------------------------------------------------
 
-###### Endpoints webservice apiBackendBetta 
+
+###### <strong>Endpoints webservice apiBackendBetta</strong>
 <p><em><strong>http://localhost:8080/products/getAllProducts      - Lista todos Produtos</strong></em></p>
 <p><em><strong>http://localhost:8080/products/saveProduct         - Salva Produto</strong></em></p>
 <p><em><strong>http://localhost:8080/products/updateProduct       - Update Produto</strong></em></p>
@@ -59,5 +63,7 @@ Teste Betta Tecnologia
 <p><em><strong>http://localhost:8080/images/updateImage               - Salva imagem do produto</strong></em></p>
 <p><em><strong>http://localhost:8080/images/deleteImage/{id}          - Deleta Imagem</strong></em></p>
 <p><em><strong>http://localhost:8080/images/getImage/{id}             - Recebe determinada imagem por id</strong></em></p>
+
+--------------------------------------------------------------------
 
 
