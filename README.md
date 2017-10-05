@@ -11,6 +11,8 @@ Teste Betta Tecnologia
 <p>Tomcat</p>
 <p>Spring-boot-starter-jdbc</p>
 
+<p>Angular JS para front end</>
+
 ### Executando aplicação
 <p>Instalar o mvn</p>
 <p>abrir pasta do projeto exemplo: C:\Users\rafaa\workspace\apiBackendBetta></p>
