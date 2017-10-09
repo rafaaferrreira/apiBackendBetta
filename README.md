@@ -50,7 +50,7 @@ Teste Betta Tecnologia
 --------------------------------------------------------------------
 
 
-###### Endpoints webservice apiBackendBetta
+###### Webservices apiBackendBetta
 <p><em><strong>http://localhost:8080/products/getAllProducts      - Lista todos Produtos</strong></em></p>
 <p><em><strong>http://localhost:8080/products/saveProduct         - Salva Produto</strong></em></p>
 <p><em><strong>http://localhost:8080/products/updateProduct       - Update Produto</strong></em></p>
